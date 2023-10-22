@@ -1,0 +1,1 @@
+This project is about implementing a web page from a figma file(https://www.figma.com/file/TwFqqWGYvNYvxZxhdWXv4H/Holberton-School---Headphone-company?type=design&node-id=0-1&mode=design&t=OS6qQxnXwPYudpeT-0) using HTML and CSS. No external frameworks have been used.
